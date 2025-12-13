@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://manos-git.github.io/manos-git.github.io/sitemap.xml
