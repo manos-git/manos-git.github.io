@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://manos-git.github.io/manos-git.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://manos-git.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://manos-git.github.io/manos-git.github.io/</loc>
+<loc>https://manos-git.github.io/</loc>
 </url>
 <url>
-<loc>https://manos-git.github.io/manos-git.github.io/about.html</loc>
+<loc>https://manos-git.github.io/about.html</loc>
 <lastmod>2025-12-15T19:58:49+02:00</lastmod>
 </url>
 <url>
-<loc>https://manos-git.github.io/manos-git.github.io/contact.html</loc>
-<lastmod>2025-12-15T19:46:52+02:00</lastmod>
+<loc>https://manos-git.github.io/contact.html</loc>
+<lastmod>2025-12-15T20:24:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://manos-git.github.io/manos-git.github.io/home-page.html</loc>
+<loc>https://manos-git.github.io/home-page.html</loc>
 <lastmod>2025-12-13T21:35:18+02:00</lastmod>
 </url>
 <url>
-<loc>https://manos-git.github.io/manos-git.github.io/thankyou.html</loc>
-<lastmod>2025-12-14T10:06:39+02:00</lastmod>
+<loc>https://manos-git.github.io/thank-you.html</loc>
+<lastmod>2025-12-15T20:18:51+02:00</lastmod>
 </url>
 </urlset>

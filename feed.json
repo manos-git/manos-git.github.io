@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "nutri",
     "description": "",
-    "home_page_url": "https://manos-git.github.io/manos-git.github.io",
-    "feed_url": "https://manos-git.github.io/manos-git.github.io/feed.json",
+    "home_page_url": "https://manos-git.github.io",
+    "feed_url": "https://manos-git.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alex"
